@@ -22,7 +22,7 @@ Shows the evolution of the block in `FILE` starting at `LINE_START` and
 ending at `LINE_END`.
 
 ```bash
-git checkout --orphan <new-branch-name>
+git checkout --orphan NEW_BRANCH_NAME
 ```
 
 Creates a new branch with no commits.
